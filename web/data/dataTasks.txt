@@ -1,0 +1,130 @@
+https://curl.haxx.se/docs/httpscripting.html#The_HTTP_Protocol
+
+Java SE, Java EE, Android, RESTful and SOAP WebServices, Spring Framework, SQL, NoSQL, HTML, CSS, Javascript, AngularJS(basic), C(basics), XML parsing, JavaMail, NoSQL databases, Development tools(Git, Jira etc.)
+Cloud migration/integration/deployment  ,  SOA, 
+
+Connect the device via USB and make sure debugging is working.
+adb tcpip 5555
+find the IP address with adb shell netcfg
+adb connect <DEVICE_IP_ADDRESS>:5555
+Disconnect USB and proceed with wireless debugging.
+adb -s <DEVICE_IP_ADDRESS>:5555 usb to switch back when done.
+
+
+
+A grade companies:
+Microsoft, Apple, Mozilla, Adobe, Yahoo, Amazon, Facebook, Twitter , Intel
+ 
+B Grade companies
+Samsung, HP, Dell , Netflix, Snapchat, Dropbox, Tesla , Informatica , ebay, Expedia, LinkedIn, Salesforce, SAP etc
+ 
+C grade companies
+Dell, WalMart, Berkshire Hathway, JP Morgan, Morgan Stanley, PWHC , Goldman Sachs, Citigroup, HSBC, Riot games, etc—
+C grade companies are not tech companies are not tech companies but hold good reputation in market
+ 
+D grade:
+Kachra – Accenture, tcs, infy, capgem, cogni, techM, wipro
+
+__HP, intel, IBM, Amazon, Uber, Oracle, Adobe, Facebook, Flipkart, Snapdeal, SAP, VMWare, Symantec ,Salesforce.com 
+
+________________________
+
+Asking the elder generation , how did they saw the transition.
+
+TODO:-Register your domain name and make a permanent email address
+
+
+
+mysql --host=173.194.250.38 --user=root --password
+
+grant all on *.* to 'root'@'173.194.250.38' identified by 'stunner28'
+https://www.youtube.com/watch?v=_kQXgjIfLgo&list=PLIivdWyY5sqL8biXl2L_axB8TpROQMkbQ&index=3
+
+
+https://cloud.google.com/developers/startercredit/
+
+--------------------NOTEPAD-----------------------------------
+ _______________________________________________________________
+|_____________________Courses we have___________________________|
+|								|
+|Algorithms,SE							|
+|AI,NLP								|
+|CSS3, Google Analytics, JS, MongoDB, NodeJS, SVG		|
+|Hibernate, JPA, Spring, Struts					|
+|Hibernate by videos, HTML5 and CSS3, JSP & Servlets, Maven	|
+|_______________________________________________________________|
+agrawal.arpit35
+password9713221789
+
+______________________________________________________________________________________________________________________________________
+TODO in vacations:
+
+	GATE: --------- 2 hrs
+		All previous papers + Strong/weak areas fixing 
+		Advance C
+
+	Aptitude:-------1 hr
+		All questions that you have	
+	
+	Technical :-----2 
+		All DAA and DS programs + gain insights of those |2 hrs
+		Questions from CodeJam and Google APAC		 |1 hr
+		Introduction to Artificial Intelligence, Natural Language Processing, Cryptography, Image Processing--------2hrs
+
+	Mini project with -------3hrs
+		Spring, Hibernate, Struts
+		RESTful & SOAP programs
+		Android,
+		JSP, JDBC
+		Maven, Github, Java-mail, SMS API, Cloud Print
+		Use new APIs
+		All Java programs
+		Android overview, (architecture, working, styles etc.)
+
+
+	Publish Research papers----PENDING
+
+________________________________________________________________________________________________________________________
+TAKE CARE OF THESE --> 													|
+	http://checkstyle.sourceforge.net/   &&    http://checkstyle.sourceforge.net/reports/google-java-style.html	|
++ Work completely using modern tool(do a google) like maven, Github etc							|
++ Make your own libraries of codes											|
+_________________________________________________________________________________________________________________________
+
+
+
+
+
+STUDYING:
+1.
+10 hours continuous study for a  day is far better then 30 mins daily for 20 days... i.e. Study daily the concept, for long time and effective learning instead of sitting alltogether after 5 days and covering all leftout :(
+
+2.
+No ALl-nighters at all strictly U bitch
+Daily scheduled learning is the most most Important as brain suits yoursel to study a thing at that time automatically, i.e. Just follow your schedule strictly or else u r gone for long u fool. and fuck thats easy too bc..
+
+3.
+DO NOT USE HIGHLIGHTING AND RE RADING( AS FOR LEARNING) AT ANT COST, change your approach, thats not the way brain s ment to taught somethings, and its even connfidence killer and Opposite reactor for productivity and learning
+	Instead use something like FLASHCARDS bc...Use your mobile//...like...keep it to ur table for ur lunch times and when u return from college,,,,thats revision...which also do help for pt. 4
+
+
+4.
+Have goals for each sessions, dont mug up but at the end just ask yourself , that HAVE U ACHIEVED THE GOAL...dont go for all the things in one session, instead go for a specific outcome/ output that help for your good grades
+(eg. I solved the question of last yrs. QP in a hardcore manner...Now aajaaye ye que, dekh loonga)
+And ask yourself at the End so that you can explain it to anyone, your room mates etc..Have that as a goal WHICH IS PT. 5
+
+
+5.
+LEARN IN SUCH A WAY THAT YOU COULD EASILY TEACH IT TO SOMEONE EFFICIENTLY, this approach is far more better than any others. DON'T FEEL DOWN IN TEACHING TO OTHERS, they wont matter at all at any cost, if you are doing your work sincerely, they are not competitions. 
+
+6.
+PRACTICE PRACTICE PRACTICE, this will boost your confidence..
+
+7.
+YOUR STUDY TABLE IS A GOOD PLACE TO STUDY , coz that have evrything that could be needed
+
+8.
+NO MUSIC WHILE STUDYING,
+
+9.
+ PUT YOUR CELLPHONE ON A STRICT PRIORITY MODE WHILE STUDYING, NO TEXTS OR WHATSAPP OR ANY OTHER TYPE OF NOTIFICATION WHILE YOU STUDY,

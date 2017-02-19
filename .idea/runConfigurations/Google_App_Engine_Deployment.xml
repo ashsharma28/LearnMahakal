@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Google App Engine Deployment" type="google-app-engine-deploy" factoryName="Google App Engine Deployment" server-name="Google App Engine">
+    <deployment type="artifact" name="LearnMahakal:war exploded" />
+    <method>
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="LearnMahakal:war exploded" />
+      </option>
+    </method>
+  </configuration>
+</component>

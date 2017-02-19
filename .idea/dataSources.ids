@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - learnmahakal@173.194.231.15" uuid="323e902a-0c80-4d59-a27d-c2ed72d70503">
+    <database-info product="MySQL" version="5.6.31" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="learnmahakal"/>
+    <table name="attendancerecord" schema="" catalog="learnmahakal" type="TABLE">
+      <column name="description" sqlType="VARCHAR" precision="500" scale="0" nullable="false" jdbcType="12"/>
+      <column name="path" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+    </table>
+    <table name="filesrecord" schema="" catalog="learnmahakal" type="TABLE">
+      <column name="subject" sqlType="VARCHAR" precision="5" scale="0" nullable="false" jdbcType="12"/>
+      <column name="description" sqlType="VARCHAR" precision="500" scale="0" nullable="false" jdbcType="12"/>
+      <column name="path" sqlType="VARCHAR" precision="190" scale="0" nullable="true" jdbcType="12"/>
+    </table>
+    <table name="users" schema="" catalog="learnmahakal" type="TABLE">
+      <column name="subject1" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12"/>
+      <column name="subject2" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12"/>
+      <column name="subject3" sqlType="VARCHAR" precision="40" scale="0" nullable="true" jdbcType="12" def="Jy0n"/>
+      <column name="subject4" sqlType="VARCHAR" precision="40" scale="0" nullable="true" jdbcType="12" def="Jy0n"/>
+      <column name="username" sqlType="VARCHAR" precision="32" scale="0" nullable="false" jdbcType="12"/>
+      <column name="password" sqlType="VARCHAR" precision="15" scale="0" nullable="false" jdbcType="12"/>
+      <index name="unique_username" unique="true" columns="username"/>
+    </table>
+  </data-source>
+  <data-source name="MySQL - @localhost" uuid="fed5a52c-3518-4b29-a707-2210083be7b0">
+    <database-info product="MySQL" version="5.6.14" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+  </data-source>
+</component>

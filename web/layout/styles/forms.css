@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.topBarButton {
+    font-size: 12px;
+    padding: 7px 10px;
+    cursor: pointer;
+    background-color: #333333;
+    color: white;
+    border: none;
+    height: 25px;
+
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+ul .topBarButton{
+    width: 200px;
+}
+.topBarButton:hover {
+    background-color:#c80202;
+}
+

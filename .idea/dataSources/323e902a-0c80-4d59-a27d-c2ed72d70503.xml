@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="MySQL - learnmahakal@173.194.231.15">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1" name="learnmahakal">
+      <Visible>1</Visible>
+    </schema>
+    <table id="3" parent="2" name="attendancerecord"/>
+    <table id="4" parent="2" name="filesrecord"/>
+    <table id="5" parent="2" name="users"/>
+    <column id="6" parent="3" name="description">
+      <DataType>VARCHAR(500)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="7" parent="3" name="path">
+      <DataType>VARCHAR(200)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="8" parent="4" name="subject">
+      <DataType>VARCHAR(5)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="9" parent="4" name="description">
+      <DataType>VARCHAR(500)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="10" parent="4" name="path">
+      <DataType>VARCHAR(190)|12</DataType>
+    </column>
+    <column id="11" parent="5" name="subject1">
+      <DataType>VARCHAR(40)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="12" parent="5" name="subject2">
+      <DataType>VARCHAR(40)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="13" parent="5" name="subject3">
+      <DataType>VARCHAR(40)|12</DataType>
+      <DefaultExpression>&apos;-&apos;</DefaultExpression>
+    </column>
+    <column id="14" parent="5" name="subject4">
+      <DataType>VARCHAR(40)|12</DataType>
+      <DefaultExpression>&apos;-&apos;</DefaultExpression>
+    </column>
+    <column id="15" parent="5" name="username">
+      <DataType>VARCHAR(32)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="16" parent="5" name="password">
+      <DataType>VARCHAR(15)|12</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="17" parent="5" name="unique_username">
+      <ColNames>username</ColNames>
+      <Unique>1</Unique>
+    </index>
+  </database-model>
+</dataSource>
